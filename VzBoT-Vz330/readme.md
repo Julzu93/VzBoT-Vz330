@@ -1,4 +1,5 @@
-### 3DO_USB-Camera_mount
+### VzBoT 3DO_USB-Camera mount
+Designed to work with both AWD and 2WD versions of the VzBot-Vz330
 
 <img src="./3DO_usb_cam.png" width="50%">
 
